@@ -1,5 +1,6 @@
 # Project_one_Group4
 
+<<<<<<< HEAD
 Project Title: Eclipses Duration in Mars
 
 A)	Team members: 
@@ -39,5 +40,12 @@ E)	Rough breakdown of tasks:
 -	Write observations and conclusions
 
 
+=======
+
+
+Mahathi Veluri;
+Luis Santana;
+Baoxing Wang.
+>>>>>>> 78bc449692b09d820cdb8d3e98e9a62c53b9b1d9
 
 
